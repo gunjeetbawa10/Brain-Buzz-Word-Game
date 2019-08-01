@@ -1,0 +1,210 @@
+<resources>
+
+
+    <!-- IMPORTANT: REPLACE THE STRING BELOW WITH THE NEW NAME YOU'LL  GIVE TO THIS APP -->
+    <string name="app_name">BrainBuzz</string>
+
+
+    <!-- IMPORTANT: REPLACE THE STRING BELOW WITH YOUR OWN BANNER UNIT ID YOU'LL GET FROM http://apps.admob.com -->
+    <string name="ADMOB_BANNER_UNIT_ID" translatable="false">ca-app-pub-3622684374247601~4662396174</string>
+
+
+    <string name="linktosite">Follow us on Twitter
+    <a href="https://twitter.com/BrainBuzz_GTW">@BrainBuzz_GTW</a>
+</string>
+
+    <!-- ARRAY OF ENGLISH WORDS -->
+    <string-array name="words">
+        <item>ALERT.LATER.ALTER</item>
+        <item>ABETS.BEATS.BEAST</item>
+        <item>ANGEL.ANGLE.GLEAN</item>
+        <item>COATS.COAST.TACOS</item>
+        <item>RATES.STARE.TEARS</item>
+        <item>BRAKE.BAKER.BREAK</item>
+        <item>BARED.BREAD.BEARD</item>
+        <item>BEGIN.BEING.BINGE</item>
+        <item>BELOW.BOWEL.ELBOW</item>
+        <item>BORES.ROBES.SOBER</item>
+        <item>PACES.SPACE.CAPES</item>
+        <item>CRATE.TRACE.CATER</item>
+        <item>CLAPS.CLASP.SCALP</item>
+        <item>CRUEL.LUCRE.ULCER</item>
+        <item>RATED.TRADE.TREAD</item>
+        <item>DATES.SATED.STEAD</item>
+        <item>EDITS.SITED.TIDES</item>
+        <item>EARNS.NEARS.SNARE</item>
+        <item>EARTH.HATER.HEART</item>
+        <item>ITEMS.EMITS.TIMES</item>
+        <item>TREES.STEER.TERSE</item>
+        <item>THERE.THREE.ETHER</item>
+        <item>HEARS.SHARE.HARES</item>
+        <item>PHASE.SHAPE.HEAPS</item>
+        <item>HEROS.HORSE.SHORE</item>
+        <item>LEAPS.PALES.LAPSE</item>
+        <item>TENOR.TONER.NOTER</item>
+        <item>NOTES.STONE.TONES</item>
+        <item>PANEL.PLANE.PENAL</item>
+        <item>PARTS.STRAP.TRAPS</item>
+        <item>SPARE.PARSE.SPEAR</item>
+        <item>SLEPT.PELTS.SPELT</item>
+        <item>SPIRE.PIERS.PRIES</item>
+        <item>PINES.SPINE.SNIPE</item>
+        <item>SAINT.SATIN.STAIN</item>
+        <item>SERVE.SEVER.VERSE</item>
+        <item>STATE.TASTE.TEATS</item>
+        <item>WEIRD.WIRED.WIDER</item>
+        <item>WORDS.SWORD</item>
+        <item>ALLOY</item>
+        <item>BRAIN</item>
+        <item>ATOMY</item>
+        <item>ABOUT</item>
+        <item>ENEMY</item>
+        <item>BAKED</item>
+        <item>BALLS</item>
+        <item>BEACH</item>
+        <item>BEAST</item>
+        <item>BESTS</item>
+        <item>BELLS</item>
+        <item>ABOVE</item>
+        <item>ABUSE</item>
+        <item>DOZEN.ZONED</item>
+        <item>DRIER.RIDER</item>
+        <item>EAGER.AGREE</item>
+        <item>EXIST.EXITS</item>
+        <item>FIBER.BRIEF</item>
+        <item>FIELD.FILED</item>
+        <item>FLEES.FEELS</item>
+        <item>FLESH.SHELF</item>
+        <item>FREAK.FAKER</item>
+        <item>FREED.DEFER</item>
+        <item>FRIES.FIRES</item>
+        <item>FUELS.FLUES</item>
+        <item>LARGE.GLARE</item>
+        <item>GREAT.GRATE</item>
+        <item>HALLS.SHALL</item>
+        <item>HATED.DEATH</item>
+        <item>HIKES.SHEIK</item>
+        <item>SHOCK.HOCKS</item>
+        <item>HOOKS.SHOOK</item>
+        <item>SHOES.HOSES</item>
+        <item>IDEAS.AIDES</item>
+        <item>INFER.FINER</item>
+        <item>SKILL.KILLS</item>
+        <item>LAMBS.BALMS</item>
+        <item>LAYER.EARLY.RELAY</item>
+        <item>LEEKS.KEELS.SLEEK</item>
+        <item>LICKS.SLICK</item>
+        <item>LISTS.SILTS.SLITS</item>
+        <item>RULED.LURED</item>
+        <item>RULES.LURES</item>
+        <item>MARCH.CHARM</item>
+        <item>MEALS.MALES</item>
+        <item>LEMON.MELON</item>
+        <item>SMELT.MELTS</item>
+        <item>MOIST.OMITS</item>
+        <item>SNAIL.NAILS</item>
+        <item>NEEDS.DENSE</item>
+        <item>NIGHT.THING</item>
+        <item>OCEAN.CANOE</item>
+        <item>PLANE.PANEL</item>
+        <item>PARKS.SPARK</item>
+        <item>SPEAK.PEAKS</item>
+        <item>PEDAL.PLEAD</item>
+        <item>POOLS.LOOPS.SPOOL</item>
+        <item>SPORT.PORTS</item>
+        <item>QUIET.QUITE</item>
+        <item>RACES.CARES.ACRES</item>
+        <item>BORED.ROBED</item>
+        <item>SOBER.BORES.ROBES</item>
+        <item>ROCKS.CORKS</item>
+        <item>ROPES.SPORE.PORES</item>
+        <item>ROSES.SORES</item>
+        <item>TURNS.RUNTS</item>
+        <item>LASTS.SALTS</item>
+        <item>CENTS.SCENT</item>
+        <item>SHARP.HAPRS</item>
+        <item>SOUTH.SHOUT</item>
+        <item>BRUSH.SHRUB</item>
+        <item>SKINS.SINKS</item>
+        <item>SIREN.RESIN.RISEN</item>
+        <item>DISKS.SKIDS</item>
+        <item>NAILS.SNAIL.SLAIN</item>
+        <item>SMILE.LIMES.MILES</item>
+        <item>SMASH.SHAMS</item>
+        <item>SMELT.MELTS</item>
+        <item>SNAPS.SPANS</item>
+        <item>SPINS.SNIPS</item>
+        <item>PILLS.SPILL</item>
+        <item>SPOTS.STOPS.POSTS</item>
+        <item>SPRAY.PRAYS</item>
+        <item>STACK.TACKS</item>
+        <item>STALK.TALKS</item>
+        <item>STICK.TICKS</item>
+        <item>TILTS.STILT</item>
+        <item>PARTS.STRAP.TRAPS</item>
+        <item>STRIP.TRIPS</item>
+        <item>STUDY.DUSTY</item>
+        <item>URGES.SURGE</item>
+        <item>WELLS.SWELL</item>
+        <item>SWING.WINGS</item>
+        <item>SWIPE.WIPES</item>
+        <item>ATTIC.TACIT</item>
+        <item>MATED.TAMED</item>
+        <item>TIMES.MITES.ITEMS</item>
+        <item>TIRED.TRIED</item>
+        <item>NOTED.TONED</item>
+        <item>SMART.TRAMS.MARTS</item>
+        <item>TUTOR.TROUT</item>
+        <item>UNITE.UNTIE</item>
+        <item>UNTIL.UNLIT</item>
+        <item>SAVES.VASES</item>
+        <item>LIVES.VEILS</item>
+        <item>VEINS.VINES</item>
+        <item>VERSE.SERVE</item>
+        <item>VIRAL.RIVAL</item>
+        <item>VOTES.STOVE</item>
+        <item>WAIST.WAITS</item>
+        <item>STRAW.WARTS</item>
+        <item>WASTE.SWEAT</item>
+
+    </string-array>
+
+
+    <!-- ENGLISH DEFAULT TRANSLATIONS -->
+    <string name="bestHome">BEST</string>
+    <string name="wincash">Hurraayy!! BrainBuzz has a good news for you all.
+Earn while playing! We are providing paytm cashbacks to the top 3 scorers once a week. On every Sunday winners will be announced
+2nd runner up will get a chance to have a paytm cash of INR 10 !
+1st runner up will be provided with INR 15 paytm cash!
+And the  ULTIMATE WINNER will get a paytm cash of INR 25.
+All you have to do is play and make great scores.
+Also, you have to share your own score on twitter by tagging BRAINBUZZ_GTW and Follow us on twitter.
+So just don not waste time go and make huge scores.
+\n\      ALL THE BEST!!!!</string>
+
+    <string name="share1">Play and win ,My best score on #BrainBuzz_GTW is</string>
+    <string name="share2"> @BrainBuzz_GTW,Can you beat it? :)</string>
+    <string name="shareGameOver1">I have just made </string>
+    <string name="shareGameOver2">as score on #BrainBuzz_GTW,@BrainBuzz_GTW,Play and win</string>
+
+    <string name="score">SCORE</string>
+
+    <string name="youCouldMade">You could have made</string>
+    <string name="youScored">You scored</string>
+    <string name="orOther">Or other</string>
+    <string name="word">words</string>
+    <string name="playAgain">Tap to Play Again</string>
+
+
+    <!-- ARRAY OF DRAWABLE FILES FOR THE LETTERS AND BUTTONS -->
+    <string-array name="random_circles">
+        <item>@drawable/circle_corner_blue</item>
+        <item>@drawable/circle_corner_dark_purple</item>
+        <item>@drawable/circle_corner_green</item>
+        <item>@drawable/circle_corner_orange</item>
+        <item>@drawable/circle_corner_purple</item>
+        <item>@drawable/circle_corner_white</item>
+    </string-array>
+
+
+</resources>

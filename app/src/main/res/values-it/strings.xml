@@ -1,0 +1,60 @@
+<resources>
+
+
+    <!-- IMPORTANT: REPLACE THE STRING BELOW WITH THE NEW NAME YOU'LL  GIVE TO THIS APP -->
+    <string name="app_name">Cinque</string>
+    <string name="linktosite">
+    <a href="https://twitter.com/BrainBuzz4">Follow us on Twitter @BrainBuzz4</a>
+</string>
+
+    <string name="wincash">Download the Game and Win Paytm Cashback By making the highest Score ,Whosever person have the highest score will win the paytm cashback and the winner will be selected only from the Twitter ,You can tag us in your tweet by using <a href="https://twitter.com/BrainBuzz_GTW">@BrainBuzz_GTW</a></string>
+    <!-- ARRAY OF ITALIAN WORDS -->
+    <string-array name="words">
+        <item>ABACO</item>
+        <item>AMACA</item>
+        <item>ABBAI.ABBIA</item>
+        <item>BEATO.BEOTA</item>
+        <item>ABICI</item>
+        <item>ABILE</item>
+        <item>ABILI</item>
+        <item>ABITO</item>
+        <item>ABUSO</item>
+        <item>ACARO</item>
+        <item>ACETO</item>
+    </string-array>
+
+
+
+
+    <!-- ITALIAN TRANSLATIONS -->
+    <string name="bestHome">RECORD</string>
+
+    <string name="share1">Il mio record in #Fives è</string>
+    <string name="share2">Puoi battermi? :)</string>
+    <string name="shareGameOver1">Ho appena fatto</string>
+    <string name="shareGameOver2">punti con #Cinque</string>
+
+    <string name="score">PUNTEGGIO</string>
+
+    <string name="youCouldMade">Avresti poputo fare</string>
+    <string name="youScored">Hai totalizzato</string>
+    <string name="orOther">O altre</string>
+    <string name="word">parole</string>
+    <string name="playAgain">Gioca ancora</string>
+
+
+
+
+
+    <!-- ARRAY OF DRAWABLE FILES FOR THE LETTERS AND BUTTONS -->
+    <string-array name="random_circles">
+        <item>@drawable/circle_corner_blue</item>
+        <item>@drawable/circle_corner_dark_purple</item>
+        <item>@drawable/circle_corner_green</item>
+        <item>@drawable/circle_corner_orange</item>
+        <item>@drawable/circle_corner_purple</item>
+        <item>@drawable/circle_corner_white</item>
+    </string-array>
+
+
+</resources>

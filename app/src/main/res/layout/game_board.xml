@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#f0ece2"
+    tools:context=".GameBoard">
+
+
+    <Button
+        android:id="@+id/gbBackButt"
+        android:layout_width="44dp"
+        android:layout_height="44dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="8dp"
+        android:layout_marginTop="5dp"
+        android:background="@drawable/back_butt"/>
+
+    <TextView
+        android:id="@+id/gbScoreTxt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="8dp"
+        android:text="@string/score"
+        android:textColor="#555"
+        android:textSize="12sp"/>
+
+    <TextView
+        android:id="@+id/gbPointsTxt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/gbBackButt"
+        android:layout_below="@+id/gbScoreTxt"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="2dp"
+        android:gravity="center_vertical"
+        android:text="00"
+        android:textColor="#333"
+        android:textSize="24sp"
+        android:textStyle="bold"/>
+
+    <Button
+        android:id="@+id/gbResetButt"
+        android:layout_width="60dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignTop="@+id/gbBackButt"
+        android:background="@android:color/transparent"
+        android:fontFamily="sans-serif-condensed"
+        android:text="RESET"
+        android:textSize="12sp"
+        android:textStyle="bold"
+        android:layout_alignBottom="@+id/gbPointsTxt"/>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:layout_below="@+id/gbBackButt"
+        android:layout_centerHorizontal="true"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="10dp"
+        android:orientation="horizontal"
+        android:id="@+id/linearLayout">
+
+
+        <TextView
+            android:id="@+id/letter1"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_gravity="center_horizontal"
+            android:background="@drawable/circle_corner_white"
+            android:gravity="center_vertical|center_horizontal"
+            android:textColor="#fff"
+            android:textSize="32sp"
+            android:textStyle="bold"/>
+
+        <TextView
+            android:id="@+id/letter2"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginLeft="5dp"
+            android:background="@drawable/circle_corner_white"
+            android:gravity="center_vertical|center_horizontal"
+            android:textColor="#fff"
+            android:textSize="32sp"
+            android:textStyle="bold"/>
+
+        <TextView
+            android:id="@+id/letter3"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginLeft="5dp"
+            android:background="@drawable/circle_corner_white"
+            android:gravity="center_vertical|center_horizontal"
+            android:textColor="#fff"
+            android:textSize="32sp"
+            android:textStyle="bold"/>
+
+        <TextView
+            android:id="@+id/letter4"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginLeft="5dp"
+            android:background="@drawable/circle_corner_white"
+            android:gravity="center_vertical|center_horizontal"
+            android:textColor="#fff"
+            android:textSize="32sp"
+            android:textStyle="bold"/>
+
+        <TextView
+            android:id="@+id/letter5"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginLeft="5dp"
+            android:background="@drawable/circle_corner_white"
+            android:gravity="center_vertical|center_horizontal"
+            android:textColor="#fff"
+            android:textSize="32sp"
+            android:textStyle="bold"/>
+
+    </LinearLayout>
+
+    <ProgressBar
+        android:id="@+id/gbProgressBar"
+        style="?android:attr/progressBarStyleHorizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignEnd="@+id/linearLayout"
+        android:layout_alignStart="@+id/linearLayout"
+        android:layout_below="@+id/linearLayout"
+        android:layout_marginTop="10dp"
+        android:progress="10"
+        android:progressBackgroundTint="@color/colorAccent"
+        android:progressTint="@color/colorAccent"/>
+
+    <RelativeLayout
+        android:id="@+id/gbButtonsLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/linearLayout"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="40dp"
+        android:layout_above="@+id/admobBanner">
+
+        <Button
+            android:id="@+id/letterButt1"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_centerHorizontal="true"
+            android:background="@drawable/circle_corner_blue"
+            android:text="A"
+            android:textColor="#fff"
+            android:textSize="32sp"
+            android:textStyle="bold"/>
+
+        <Button
+            android:id="@+id/letterButt2"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_below="@+id/letterButt1"
+            android:layout_marginRight="20dp"
+            android:layout_marginTop="20dp"
+            android:layout_toStartOf="@+id/letterButt1"
+            android:background="@drawable/circle_corner_blue"
+            android:text="B"
+            android:textColor="#fff"
+            android:textSize="32sp"
+            android:textStyle="bold"/>
+
+        <Button
+            android:id="@+id/letterButt3"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_alignStart="@+id/letterButt1"
+            android:layout_below="@+id/letterButt1"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/circle_corner_blue"
+            android:text="C"
+            android:textColor="#fff"
+            android:textSize="32sp"
+            android:textStyle="bold"/>
+
+        <Button
+            android:id="@+id/letterButt4"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_below="@+id/letterButt1"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="20dp"
+            android:layout_toEndOf="@+id/letterButt1"
+            android:background="@drawable/circle_corner_blue"
+            android:text="D"
+            android:textColor="#fff"
+            android:textSize="32sp"
+            android:textStyle="bold"/>
+
+        <Button
+            android:id="@+id/letterButt5"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_below="@+id/letterButt3"
+            android:layout_marginTop="20dp"
+            android:layout_toEndOf="@+id/letterButt2"
+            android:background="@drawable/circle_corner_blue"
+            android:text="E"
+            android:textColor="#fff"
+            android:textSize="32sp"
+            android:textStyle="bold"/>
+
+    </RelativeLayout>
+
+
+    <com.google.android.gms.ads.AdView
+        android:id="@+id/admobBanner"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:visibility="visible"
+        ads:adSize="BANNER"
+        ads:adUnitId="@string/ADMOB_BANNER_UNIT_ID"></com.google.android.gms.ads.AdView>
+
+
+</RelativeLayout>

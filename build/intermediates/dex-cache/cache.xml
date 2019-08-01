@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\gunje\.gradle\caches\transforms-1\files-1.1\play-services-safetynet-11.0.4.aar\99b579c33c14276d2001ae296be1beee\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f2cb88e7e28736d44e7e643deb80c9af1c3662c8">
+        <dex dex="E:\My Projects\fivesandroid\codecanyon-19840229-fives-android-universal-word-game-template\Fives\app\build\intermediates\transforms\preDex\release\8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gunje\.gradle\caches\transforms-1\files-1.1\play-services-ads-11.0.4.aar\c78777c5611ddcb09ad8dcf23f0a5b57\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2c73e2a93e00abd240e495c1e62217e53904a3f3">
+        <dex dex="E:\My Projects\fivesandroid\codecanyon-19840229-fives-android-universal-word-game-template\Fives\app\build\intermediates\transforms\preDex\release\3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gunje\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-alpha1.aar\2260ec33fbbf60cfbc976b28dd717b93\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="E:\My Projects\fivesandroid\codecanyon-19840229-fives-android-universal-word-game-template\Fives\app\build\intermediates\transforms\preDex\release\5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gunje\.gradle\caches\transforms-1\files-1.1\play-services-gass-11.0.4.aar\a36919ed0d2f5d2095b4228b90b7d045\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="34c23b5894b4f24d566bfc33e0e25462c6436b78">
+        <dex dex="E:\My Projects\fivesandroid\codecanyon-19840229-fives-android-universal-word-game-template\Fives\app\build\intermediates\transforms\preDex\release\10\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gunje\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\6a014c8f2ce598f3d567cc68490f8c09\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="E:\My Projects\fivesandroid\codecanyon-19840229-fives-android-universal-word-game-template\Fives\app\build\intermediates\transforms\preDex\release\18\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gunje\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-alpha1.aar\101ea366d407f49ce6cd78f27ca951b6\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="E:\My Projects\fivesandroid\codecanyon-19840229-fives-android-universal-word-game-template\Fives\app\build\intermediates\transforms\preDex\release\14\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gunje\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="E:\My Projects\fivesandroid\codecanyon-19840229-fives-android-universal-word-game-template\Fives\app\build\intermediates\transforms\preDex\release\20\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gunje\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\c18e4cc542f2679585aea6d701d148f5\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="E:\My Projects\fivesandroid\codecanyon-19840229-fives-android-universal-word-game-template\Fives\app\build\intermediates\transforms\preDex\release\1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gunje\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\0c7172630100a5d35c01110a36f1280d\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="E:\My Projects\fivesandroid\codecanyon-19840229-fives-android-universal-word-game-template\Fives\app\build\intermediates\transforms\preDex\release\16\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gunje\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\f31ca9fe80c8b12475336d28d8c0f443\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="E:\My Projects\fivesandroid\codecanyon-19840229-fives-android-universal-word-game-template\Fives\app\build\intermediates\transforms\preDex\release\2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gunje\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\7cbec4fd373126f588ffb9c366c4259f\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="E:\My Projects\fivesandroid\codecanyon-19840229-fives-android-universal-word-game-template\Fives\app\build\intermediates\transforms\preDex\release\17\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gunje\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-11.0.4.aar\cdef979d0bb86603978dfcada34bb8b5\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e7f890dd2539b7f2582f450f0721e2dea6ae510c">
+        <dex dex="E:\My Projects\fivesandroid\codecanyon-19840229-fives-android-universal-word-game-template\Fives\app\build\intermediates\transforms\preDex\release\7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gunje\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.4.aar\223edd884d4356e807a877e7e3b4fc0f\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="70ffe00aaf049893f59d1dad57bd82992faa38ef">
+        <dex dex="E:\My Projects\fivesandroid\codecanyon-19840229-fives-android-universal-word-game-template\Fives\app\build\intermediates\transforms\preDex\release\9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gunje\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\2ca665c6621f2854fe101456856a221c\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\My Projects\fivesandroid\codecanyon-19840229-fives-android-universal-word-game-template\Fives\app\build\intermediates\transforms\preDex\release\13\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gunje\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="E:\My Projects\fivesandroid\codecanyon-19840229-fives-android-universal-word-game-template\Fives\app\build\intermediates\transforms\preDex\release\19\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gunje\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.0.4.aar\9fdd2f39a4e476550712073249cbcc0e\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="364364bf77b4a71afc5930fc3ae57b3f0eea637c">
+        <dex dex="E:\My Projects\fivesandroid\codecanyon-19840229-fives-android-universal-word-game-template\Fives\app\build\intermediates\transforms\preDex\release\12\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gunje\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.0.4.aar\45cfb20d5ab80c7027fc45d128f50b58\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2430e711762a749feb00b3d64858ca4768251b9d">
+        <dex dex="E:\My Projects\fivesandroid\codecanyon-19840229-fives-android-universal-word-game-template\Fives\app\build\intermediates\transforms\preDex\release\11\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gunje\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-alpha1.aar\33658c50b43c4e7a3c8fe8ccd0ee3c58\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="E:\My Projects\fivesandroid\codecanyon-19840229-fives-android-universal-word-game-template\Fives\app\build\intermediates\transforms\preDex\release\15\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gunje\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.0.4.aar\4608dc18a86e76eb760c1bda2ecfda99\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="416fb9ee2fd6e7af0bba04b01d90cb475b1e2074">
+        <dex dex="E:\My Projects\fivesandroid\codecanyon-19840229-fives-android-universal-word-game-template\Fives\app\build\intermediates\transforms\preDex\release\6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gunje\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-alpha1.aar\42e281acd7b13b9e4590132d6fced777\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="E:\My Projects\fivesandroid\codecanyon-19840229-fives-android-universal-word-game-template\Fives\app\build\intermediates\transforms\preDex\release\4\classes.dex" />
+    </item>
+
+</items>

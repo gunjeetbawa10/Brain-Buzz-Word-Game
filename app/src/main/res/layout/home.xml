@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/hLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ef644d"
+    tools:context=".Home">
+
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="42dp"
+        app:srcCompat="@drawable/logo_home" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/imageView"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="14dp"
+        android:text="@string/bestHome"
+        android:textAllCaps="true"
+        android:textColor="#fff"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:id="@+id/hBestTxt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textView"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="5dp"
+        android:text="00"
+        android:textColor="#fff"
+        android:textSize="32sp"/>
+
+    <Button
+        android:id="@+id/hPlayButt"
+        android:layout_width="140dp"
+        android:layout_height="54dp"
+        android:layout_below="@+id/hBestTxt"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="50dp"
+        android:background="@drawable/play_butt" />
+
+    <Button
+        android:id="@+id/hShareButt"
+        android:layout_width="140dp"
+        android:layout_height="54dp"
+        android:layout_alignStart="@+id/hPlayButt"
+        android:layout_below="@+id/hPlayButt"
+        android:layout_marginTop="5dp"
+        android:background="@drawable/share_butt"/>
+
+    <Button
+        android:id="@+id/button2"
+        style="@style/Widget.AppCompat.Button.Colored"
+        android:layout_width="140dp"
+        android:layout_height="57dp"
+        android:layout_alignStart="@+id/hShareButt"
+        android:layout_below="@+id/hShareButt"
+        android:layout_marginTop="8dp"
+        android:background="#1a8cff"
+        android:text="How to play" />
+
+
+    <Button
+        android:id="@+id/button10"
+        style="@style/Widget.AppCompat.Button.Colored"
+        android:layout_width="140dp"
+        android:layout_height="57dp"
+        android:layout_alignStart="@+id/button2"
+        android:layout_below="@+id/button2"
+        android:layout_marginTop="6dp"
+        android:background="#ff66ff"
+        android:textColor="#000000"
+        android:text="Win Prizes"
+        android:textSize="16sp" />
+
+
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="9dp"
+        android:text="@string/linktosite"
+        android:textColor="@color/common_google_signin_btn_text_dark_default"
+        android:textStyle="bold|italic" />
+
+
+
+</RelativeLayout>
